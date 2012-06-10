@@ -29,3 +29,4 @@ _ReSharper*/
 *.opensdf
 *.vcxproj.user
 [Ii]pch
+*.cachefile
