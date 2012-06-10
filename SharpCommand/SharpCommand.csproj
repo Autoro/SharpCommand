@@ -93,8 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IInputListener.cs" />
-    <Compile Include="Core.cs" />
     <Compile Include="IInputModule.cs" />
+    <Compile Include="InputCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XNAInputModule.cs" />
   </ItemGroup>

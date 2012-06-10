@@ -1,5 +1,0 @@
-C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\SharpCommand\bin\x86\Debug\SharpCommand.dll
-C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\SharpCommand\bin\x86\Debug\SharpCommand.pdb
-C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\SharpCommand\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\SharpCommand\obj\x86\Debug\SharpCommand.dll
-C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\SharpCommand\obj\x86\Debug\SharpCommand.pdb
