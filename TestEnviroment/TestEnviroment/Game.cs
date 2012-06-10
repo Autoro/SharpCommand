@@ -1,13 +1,7 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Audio;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using Microsoft.Xna.Framework.Media;
 using SharpCommand;
 
 namespace TestEnviroment
@@ -24,7 +18,7 @@ namespace TestEnviroment
             this.graphics = new GraphicsDeviceManager(this);
             this.Content.RootDirectory = "Content";
 
-            this.input = new InputCore(new XNAInputModule());
+            this.input = new InputCore("bindings.txt", new XNAInputModule());
             this.input.AddListener(this);
         }
 
@@ -44,7 +38,9 @@ namespace TestEnviroment
         protected override void Update(GameTime gameTime)
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
+            {
                 this.Exit();
+            }
 
             this.input.Update();
 
