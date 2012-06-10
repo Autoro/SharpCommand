@@ -6,3 +6,12 @@ C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\
 C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\TestEnviroment.exe
 C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\TestEnviroment.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\TestEnviroment.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\TestEnviroment.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\bin\x86\Debug\Content\bindings.txt
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\bin\x86\Debug\TestEnviroment.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\bin\x86\Debug\TestEnviroment.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\bin\x86\Debug\SharpCommand.dll
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviroment\bin\x86\Debug\SharpCommand.pdb

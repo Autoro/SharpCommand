@@ -1,1 +1,2 @@
 C:\Users\Alex\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviromentContent\obj\x86\Debug\TestEnviromentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\SharpCommand\TestEnviroment\TestEnviromentContent\obj\x86\Debug\ResolveAssemblyReference.cache
