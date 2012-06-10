@@ -7,7 +7,7 @@ namespace SharpCommand
     public class InputCore
     {
         private readonly string fileName;
-        private IInputModule module;
+        private readonly IInputModule module;
 
         private readonly Dictionary<string, string> bindings;
         private readonly List<IInputListener> listeners;
@@ -27,11 +27,6 @@ namespace SharpCommand
 
                 this.BindKey(key, action);
             }
-        }
-
-        public void ChangeModule(IInputModule module)
-        {
-            this.module = module;
         }
 
         public void AddListener(IInputListener listener)
